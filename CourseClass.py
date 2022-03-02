@@ -36,7 +36,5 @@ class Register:
 
     def get_name(self):
         return self.__studentname
-    
-
 
             
